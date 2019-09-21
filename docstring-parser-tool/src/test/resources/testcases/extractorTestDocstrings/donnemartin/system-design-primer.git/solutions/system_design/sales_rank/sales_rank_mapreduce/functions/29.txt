@@ -1,0 +1,8 @@
+"""Sum values for each key.
+
+        (foo, p1), 2
+        (bar, p1), 3
+        (foo, p2), 3
+        (bar, p3), 10
+        (foo, p4), 1
+        """

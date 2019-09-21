@@ -1,0 +1,92 @@
+id,created,missing,email,experience,highest_degree,job_title,comment,self_assessment,style_format
+871,2019-07-30 12:23:53.241,One comment that may. Have all categories or at least a majority of. Them,florianxbernard@gmail.com,0,self taught,PhD candidate ,"",Moderate,Numpydoc
+872,2019-07-30 12:48:47.457,"",jeremy.kubrak@uzh.ch,2,Bachelor's degree,Software Engineer,"",Moderate,I don't follow a particular style
+873,2019-07-30 12:53:52.298,"","",3,Bachelor's degree,Consultor,"",Moderate,Google
+1029,2019-07-30 15:34:10.342,,,0,College,Student,,Moderate,I don't follow a particular style
+878,2019-07-30 13:11:00.238,,,4,College,student,,Moderate,I don't follow a particular style
+874,2019-07-30 13:02:00.042,"",sophia1492@hotmail.com,0,High School,Intern,"",Moderate,Numpydoc
+952,2019-07-30 13:32:04.025,,,0,High School,Unemployed/In School,,Moderate,I don't follow a particular style
+954,2019-07-30 13:33:39.614,"",matthewfarren@gmail.com,8,Bachelor's degree,EDI Systems Analyst,"Categories seem too broad, such that some categories apply to nearly all comments and other categories apply to none of them. Difficult to draw any conclusions on such unbalanced data.",Low,I don't write Python comments
+977,2019-07-30 13:58:35.802,,,4,Bachelor's degree,SWE Intern,,High,I don't follow a particular style
+976,2019-07-30 13:58:29.658,,,25,"degree in physics, experience as research developer for 25 years.",Senior Research Programmer,,High,I don't follow a particular style
+979,2019-07-30 14:03:59.898,,,3,Bachelor's degree,software engineer,,Moderate,I don't follow a particular style
+1001,2019-07-30 14:14:55.413,,,0,College,Research Assistant ,,High,I don't follow a particular style
+1006,2019-07-30 14:24:55.263,,,3,Bachelor's degree,Software Engineer Intern,,High,Google
+1030,2019-07-30 15:44:09.5,,,0,Bachelor's degree,PhD student,,Moderate,I don't follow a particular style
+1023,2019-07-30 14:53:21.585,,,7,No degrees related to CS.,Senior data analyst,"The samples seem to have been taken from a limited number of modules. This means that a you'll only find a limited number of comment patterns (these differ significantly).
+
+I found i only used about 4 or 5 of the classifiers.",Moderate,I don't follow a particular style
+1065,2019-07-30 15:49:24.67,,,2,Bachelor's degree,DevOps Engineer,,Moderate,I don't follow a particular style
+1068,2019-07-30 15:58:35.14,,,5,Master's degree,Full stack engineer ,,High,I don't follow a particular style
+1063,2019-07-30 15:46:32.696,Siting borrowed code,chairs.daily.2019@gmail.com ,5,Master's degree,"Wireless Systems API Developer, Server Security Manager ","Often times, programs borrow constants and code snippets from other projects. Your comments, regardless of compliance to a given protocol, should always clearly indicate the source and author, providing credit where it's due. ",Moderate,Numpydoc
+1121,2019-07-30 16:07:57.377,,,1,College,Intern,,Moderate,I don't write Python comments
+1069,2019-07-30 16:03:33.498,,,4,Bachelor's degree,Masters Student ,,Moderate,I don't follow a particular style
+1123,2019-07-30 16:25:31.963,,,2,High School,Backend Developer (Minijob),,High,Epytext
+1124,2019-07-30 16:29:58.294,,,8,Professional degree,Devops Architect,,High,Numpydoc
+2271,2019-09-16 18:44:07.188,,,1,Bachelor's degree,part time software developer,,Low,I don't follow a particular style
+1126,2019-07-30 16:38:29.038,,,3,Bachelor's degree,Junior,,Moderate,I don't write Python comments
+2272,2019-09-16 19:14:18.294,,,1,Bachelor's degree,software developer,,Moderate,I don't write Python comments
+1192,2019-07-30 17:09:29.697,,,2,College,Teaching Assistant,,Moderate,I don't follow a particular style
+1130,2019-07-30 17:04:44.732,,bspitzer@uchicago.edu,2,Master's degree,Business Generalist,,Moderate,I don't follow a particular style
+1214,2019-07-30 18:36:58.278,,,22,Master's degree,CTO,"Add  n of 15, or however many total questions, to the top of the page.  I almost left in the middle b/c I didn't trust you were keeping track...",High,Google
+1303,2019-07-30 21:07:25.739,,,20,High School,Sr engineer,,High,ReStructuredText
+1273,2019-07-30 20:08:58.45,,,3,Bachelor's degree,IT consultant,,Moderate,I don't follow a particular style
+1274,2019-07-30 20:14:04.755,,,2,High School,Student,,Moderate,Numpydoc
+1278,2019-07-30 20:30:03.499,Several of these categories don't seem really relevant for class-level comments.,,2,Master's degree,Software engineer,"Showing just the comments doesn't really make too much sense. Comments, by themselves, are not really meant to be read in isolation and are instead meant to supplement the actual signature. The function and param names/default values provide valuable information and context; repeating that info in the comments is often unnecessary.
+
+This is doubly the case if the code happens to be using PEP 484 type hints: meticulously documenting each parameter/return value becomes even less useful in those cases.
+",High,I don't follow a particular style
+1280,2019-07-30 20:46:24.384,,,5,Master's degree,fsdfd,,High,I don't follow a particular style
+1301,2019-07-30 20:47:08.935,,,1,Bachelor's degree,Software Engineer,,Moderate,I don't follow a particular style
+1306,2019-07-30 21:17:29.089,,,4,College,Computer Science R&D Intern,,High,I don't follow a particular style
+1308,2019-07-30 21:32:16.071,,,6,Bachelor's degree,senior software engineer,,High,Google
+1309,2019-07-30 21:35:09.731,,,3,Doctorate degree,Researcher,,Moderate,I don't follow a particular style
+1312,2019-07-30 21:45:23.128,,,3,High School,Software Developer,,Moderate,I don't follow a particular style
+1313,2019-07-30 21:49:26.196,,,3,Master's degree,Freelance,,Moderate,I don't follow a particular style
+1316,2019-07-30 22:16:15.248,"Comment that summarizes a block of code.
+Ex:
+#now do xyz",,0,High School,Unemployed,"Generally I dislike python, so probably nothing positive. I suppose I do have to wonder why python was picked, assuming you were selecting for the amount of comments i am not sure python was the best choice.",Low,I don't follow a particular style
+1371,2019-07-30 22:53:07.678,,adler.uai@hotmail.com,4,College,Student,,Moderate,I don't follow a particular style
+1372,2019-07-30 22:54:59.33,,james.g.bradshaw@gmail.com,7,Bachelor's degree,Principal Software Engineer,,High,ReStructuredText
+2311,2019-09-16 22:12:22.58,,,7,Bachelor's degree,-,,Moderate,ReStructuredText
+2041,2019-09-13 18:50:54.9,,,2,Bachelor's degree,master student,,Moderate,I don't follow a particular style
+1376,2019-07-30 23:58:18.517,,,0,In school Pershing bachelors,N/a,,Moderate,I don't follow a particular style
+2042,2019-09-13 18:56:24.237,,,3,Bachelor's degree,software engineer,,Moderate,ReStructuredText
+1377,2019-07-30 23:59:22.847,,mateo@meligranamail.com,4,High School,Still in highschool,"",Moderate,I don't follow a particular style
+2071,2019-09-16 06:30:18.156,,,4,Bachelor's degree,Software Engineer,,Moderate,I don't follow a particular style
+2072,2019-09-16 06:42:02.523,,,4,Bachelor's degree,Software Engineer,,Moderate,I don't follow a particular style
+2073,2019-09-16 07:02:21.236,,,5,Master's degree,Data Scientist,,High,ReStructuredText
+2074,2019-09-16 07:09:22.236,,,7,Doctorate degree,Doctorate,,Moderate,I don't follow a particular style
+1429,2019-07-31 03:58:20.385,,,4,High School,Software Engineer 2,,High,I don't follow a particular style
+2075,2019-09-16 07:20:21.158,,,3,Bachelor's degree,Software Developer,,Low,I don't write Python comments
+1441,2019-07-31 05:02:30.299,Subclassing/Override instructions.,,6,Bachelor's degree,Senior Software Automation Engineer,Please summarize and publish your results to reddit!,High,"Sorry, genuinely don't know. PyCharm's default style."
+1442,2019-07-31 06:09:11.053,,,5,Bachelor's degree,Network Engineer,,High,Google
+2076,2019-09-16 07:26:39.689,,,2,Bachelor's degree,Student,,Low,I don't follow a particular style
+1445,2019-07-31 07:33:26.319,,,1,Master's degree,Software developer,,Low,I don't follow a particular style
+1446,2019-07-31 08:31:14.544,,,4,Bachelor's degree,student,,Moderate,I don't follow a particular style
+1538,2019-07-31 16:18:44.021,,easantos@ualberta.ca,7,Master's degree,Application Development Specialist,"",High,ReStructuredText
+1447,2019-07-31 08:33:53.041,,zieris@inf.fu-berlin.de,10,Master's degree,Research Associate,,None,I don't write Python comments
+1539,2019-07-31 17:46:26.084,,,3,Bachelor's degree,Sysadmin,,Moderate,Google
+1450,2019-07-31 09:09:33.288,Thread safety,flbm@simcorp.com,8,Doctorate degree,Software developer,,Moderate,I don't follow a particular style
+1449,2019-07-31 09:09:29.532,comments to anyone inheriting a class.,,5,Doctorate degree,Senior Researcher,Some comments are not needed if a project is using type annotations.,High,ReStructuredText
+2221,2019-09-16 17:27:31.844,,,4,Bachelor's degree,self employed,,Moderate,I don't write Python comments
+2222,2019-09-16 17:56:48.374,,,1,High School,software developer intern,,Low,I don't write Python comments
+1535,2019-07-31 13:39:37.344,,,10,Self-taught,DevOps Developer,,Moderate,I don't follow a particular style
+2223,2019-09-16 18:14:12.926,,,1,High School,student,,None,I don't write Python comments
+1537,2019-07-31 15:55:08.773,,,3,Self-taught,analyst,,Moderate,I don't follow a particular style
+1591,2019-08-01 04:50:11.939,,,4,Master's degree,Backend Developper,,Moderate,I don't follow a particular style
+1722,2019-08-17 08:59:21.847,,,3,Self-taught,data analyst,,Moderate,I don't follow a particular style
+1621,2019-08-05 14:27:53.576,,patrick.muntwyler@uzh.ch,3,Bachelor's degree,Software Developer,,Moderate,I don't follow a particular style
+1622,2019-08-05 14:53:48.748,,linovonburg@gmail.com,11,Bachelor's degree,Software Developer,"",Moderate,I don't follow a particular style
+1661,2019-08-06 20:17:22.66,,,1,Bachelor's degree,Full stack developer,,Moderate,Google
+1723,2019-08-17 09:25:36.563,,,1,High School,software engineer intern,,Low,I don't follow a particular style
+1691,2019-08-07 17:31:48.299,when is a method invoked and where can it be used (which),nicolas.gordillo@jls.ch,5,Master's degree,Software Developer,nice,High,I don't write Python comments
+1721,2019-08-16 23:55:04.391,,,4,Master's degree,Senior software engineer,,Moderate,I don't follow a particular style
+1724,2019-08-17 10:26:00.695,,,4,Self-taught,freelancer,,Moderate,Google
+1725,2019-08-17 10:58:55.582,,,2,Bachelor's degree,software developer,,Low,I don't follow a particular style
+1726,2019-08-17 12:20:05.077,,,4,Bachelor's degree,software developer,,Low,ReStructuredText
+1727,2019-08-17 12:48:27.606,,,2,Self-taught,-,,Low,I don't follow a particular style
+1728,2019-08-17 13:15:19.196,,,7,College,-,,Moderate,ReStructuredText
+1729,2019-08-17 13:16:34.434,,,7,College,-,,Moderate,ReStructuredText
+2001,2019-08-18 08:38:51.354,,,3,Bootcamp,-,,Moderate,ReStructuredText
+2002,2019-08-18 08:45:56.219,,,2,College,self-employed,,Low,I don't follow a particular style

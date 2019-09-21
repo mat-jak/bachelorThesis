@@ -1,0 +1,29 @@
+spring:
+  application:
+    name: docstring-classification-tool-backend
+  profiles:
+    active: dev
+  jpa:
+    database-platform: org.hibernate.dialect.PostgreSQL95Dialect
+    properties:
+      hibernate:
+        jdbc:
+          lob:
+            non_contextual_creation: true
+    hibernate:
+      ddl-auto: validate
+  datasource:
+    hikari:
+      maximum-pool-size: 36
+    driver-class-name: org.postgresql.Driver
+server:
+  address: 0.0.0.0
+  port: 8080
+  servlet:
+    context-path: /api/v1
+  error:
+    whitelabel:
+      enabled: false
+  compression:
+    enabled: true
+    mime-types: application/json,application/xml,text/xml,text/plain

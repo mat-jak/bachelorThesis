@@ -1,0 +1,5 @@
+"""Sum values for each key.
+
+        (2016-01, shopping), 125
+        (2016-01, gas), 50
+        """

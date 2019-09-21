@@ -1,0 +1,1 @@
+"""Find an available spot where vehicle can fit, or return None"""

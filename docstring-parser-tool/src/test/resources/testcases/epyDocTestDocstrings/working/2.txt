@@ -1,0 +1,7 @@
+"""
+	Return the square of M{x}. The B{square} of a number
+	is the number times itself.
+	@type x: number
+	@rtype: number
+	@return: The square of M{x}, i.e., M{x*x}.
+	"""

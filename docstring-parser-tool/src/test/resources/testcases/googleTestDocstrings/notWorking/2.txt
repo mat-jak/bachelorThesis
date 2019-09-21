@@ -1,0 +1,35 @@
+"""Example function with types documented in the docstring.
+
+    `PEP 484`_ type annotations are supported. If attribute, parameter, and
+    return types are annotated according to `PEP 484`_, they do not need to be
+    included in the docstring:
+
+    Parameters
+    ----------
+    param1 : int
+        The first parameter.
+    param2 : str
+        The second parameter.
+
+    Returns
+    -------
+    bool
+        True if successful, False otherwise.
+	
+    Yields
+    ------
+    err_code : int
+        Non-zero value indicates error code, or zero on success.
+    err_msg : str
+        Human readable error message, or None on success.
+	Raises
+	------
+	LinAlgException
+	If the matrix is not numerically invertible.
+	
+	Examples
+    --------
+    >>> a = 130; b = [10, 20, 30]
+    >>> func(a, b)
+    &lt;function output copied and pasted&gt;
+    """

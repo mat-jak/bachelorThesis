@@ -1,0 +1,1 @@
+"""Occupy starting at spot.spot_number to vehicle.spot_size."""

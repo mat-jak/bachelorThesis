@@ -1,0 +1,42 @@
+// Global Styles
+// To reference files in the assets folder use "~@/assets/..."
+@import "~sass-rem";
+@import "variables";
+
+html {
+  //@include rem-baseline;
+  @media screen and (min-width: 480px) {
+    font-size: 6px;
+  }
+  @media screen and (min-width: 600px) {
+    font-size: 8px;
+  }
+  @media screen and (min-width: 900px) {
+    font-size: 12px;
+  }
+  @media screen and (min-width: 1280px) {
+    font-size: 16px;
+  }
+  @media screen and (min-width: 1920px) {
+    font-size: 24px;
+  }
+  @media screen and (min-width: 3840px) {
+    font-size: 48px;
+  }
+}
+
+body {
+  margin: 0;
+  background-color: #FFEBCD;
+  overflow-x: hidden;
+
+  @media screen and (max-device-width: 480px)
+                and (orientation: portrait){
+    background-color: #000000;
+  }
+}
+
+#app {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}

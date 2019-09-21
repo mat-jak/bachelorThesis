@@ -1,0 +1,19 @@
+"""Construct key to ensure proper sorting.
+
+        Transform key and value to the form:
+
+        (foo, 2), p1
+        (bar, 3), p1
+        (foo, 3), p2
+        (bar, 10), p3
+        (foo, 1), p4
+
+        The shuffle/sort step of MapReduce will then do a
+        distributed sort on the keys, resulting in:
+
+        (category1, 1), product4
+        (category1, 2), product1
+        (category1, 3), product2
+        (category2, 3), product1
+        (category2, 7), product3
+        """

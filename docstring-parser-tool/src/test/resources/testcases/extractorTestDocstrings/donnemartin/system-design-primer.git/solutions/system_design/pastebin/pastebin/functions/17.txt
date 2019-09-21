@@ -1,0 +1,8 @@
+"""Parse each log line, extract and transform relevant lines.
+
+        Emit key value pairs of the form:
+
+        (2016-01, url0), 1
+        (2016-01, url0), 1
+        (2016-01, url1), 1
+        """

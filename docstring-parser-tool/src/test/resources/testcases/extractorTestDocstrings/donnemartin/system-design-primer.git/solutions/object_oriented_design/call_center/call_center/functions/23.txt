@@ -1,0 +1,1 @@
+"""Assume the employee will always successfully take the call."""

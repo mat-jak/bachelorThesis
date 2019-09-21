@@ -1,0 +1,11 @@
+"""
+    This function expects one string, this hostname to lookup variables for.
+    Args:
+    
+        api: FreeIPA API Object
+        
+        
+        host: Name of Hostname
+
+    Returns: Dict of Host vars if found else None
+    """

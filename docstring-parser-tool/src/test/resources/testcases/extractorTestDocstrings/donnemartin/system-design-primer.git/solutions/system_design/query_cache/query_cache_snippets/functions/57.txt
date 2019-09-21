@@ -1,0 +1,4 @@
+"""Get the stored query result from the cache.
+
+        Accessing a node updates its position to the front of the LRU list.
+        """

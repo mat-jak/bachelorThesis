@@ -1,0 +1,11 @@
+"""Parse each log line, extract and transform relevant lines.
+
+        Emit key value pairs of the form:
+
+        (foo, p1), 2
+        (bar, p1), 2
+        (bar, p1), 1
+        (foo, p2), 3
+        (bar, p3), 10
+        (foo, p4), 1
+        """

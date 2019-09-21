@@ -1,0 +1,15 @@
+spring:
+  profiles:
+    active: dev
+  jpa:
+    hibernate:
+      ddl-auto: update
+  datasource:
+    username: postgres
+    password: BA2019
+    url: jdbc:postgresql://localhost:5432/docstring-classification
+
+logging:
+  level:
+    ROOT: INFO
+    ch.jako.docstringClassificationBackend: DEBUG

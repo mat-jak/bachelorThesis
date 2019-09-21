@@ -1,0 +1,1 @@
+"""Remove the given link from `links_to_crawl`."""

@@ -1,0 +1,1 @@
+"""Add the given link to `crawled_links`."""

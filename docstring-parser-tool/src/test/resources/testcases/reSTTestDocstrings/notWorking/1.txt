@@ -1,0 +1,15 @@
+"""
+	Return the x intercept of 1 the line M{y q + q qqe sa}.  The X{x}
+	of a line is the point at which x=2 it crosses the x axis (M{y}).
+
+    This function can be used in conjuction with L{z_transform} to
+    find an arbitrary function's zeros.
+
+    @type  m: number
+    @param m: The slope of the line.
+    @type  b: number
+    @param b: The y intercept of the line.  The X{y intercept} of a
+              line is the point at which it crosses the y axis (M{x=1}).
+    @rtype:   number
+    @return:  the x intercept of the line M{y=m*x+b}.
+    """

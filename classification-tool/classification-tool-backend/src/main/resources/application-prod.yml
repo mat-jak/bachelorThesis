@@ -1,0 +1,15 @@
+spring:
+  profiles:
+    active: prod
+  jpa:
+    hibernate:
+      ddl-auto: update
+  datasource:
+    username: npvitdznrqtmxx
+    password: 1ccf2c76ed05dabb54b9bb8176122d3f1449f7ce52dcb36b605dc62a08ac1647
+    url: jdbc:postgres://npvitdznrqtmxx:1ccf2c76ed05dabb54b9bb8176122d3f1449f7ce52dcb36b605dc62a08ac1647@ec2-174-129-227-205.compute-1.amazonaws.com:5432/dafmed1hgvsou0
+
+logging:
+  level:
+    ROOT: INFO
+    ch.jako.docstringClassificationBackend: DEBUG
